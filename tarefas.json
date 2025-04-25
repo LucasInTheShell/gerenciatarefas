@@ -1,8 +1,16 @@
 [
     {
-        "cliente": "a",
-        "descricao": "a",
-        "tempo_total": "0:00:19.583634",
-        "status": "Pausada"
+        "cliente": "a ",
+        "descricao": "a ",
+        "tempo_total": "0:00:09.036521",
+        "status": "Finalizada",
+        "historico": "Iniciada em: 23:10:01\nPausada em: 23:10:06\nIniciada em: 23:14:57\nPausada em: 23:15:02\nFinalizada em: 23:15:13"
+    },
+    {
+        "cliente": "b",
+        "descricao": "b",
+        "tempo_total": "0:00:04.326423",
+        "status": "Finalizada",
+        "historico": "Iniciada em: 23:16:06\nPausada em: 23:16:10\nFinalizada em: 23:16:16"
     }
 ]
