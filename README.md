@@ -14,6 +14,8 @@ execute arquivo .exe localizado em:
 dist\project.exe
 
 
+ou execute através do terminal
+
 ```bash
 pip install -r requirements.txt
 python projetc.py
